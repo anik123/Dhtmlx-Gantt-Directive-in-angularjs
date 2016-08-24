@@ -15,7 +15,7 @@ dhtmlxGantt is an open source JavaScript Gantt chart that helps you visualize a 
 
 This directive's scope is isolated.
 
-This is the config object wich will passed from controler.
+This is the config object which will be passed from controler.
 
 ```
 $scope.granttConfig = {
